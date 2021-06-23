@@ -1,5 +1,5 @@
 
-@media screen{
+@media screen and (min-width: 1201px) {
 /* Style global*/
 *,*:before,*:after {
   box-sizing: inherit;
@@ -163,7 +163,7 @@ a:hover, a:focus{
 
 
 }
-@media handheld{
+@media screen and (max-width:666px) {
   html{
     background-color:blue;
     color:orange;
