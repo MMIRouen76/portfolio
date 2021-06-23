@@ -86,12 +86,12 @@ a:hover, a:focus{
   box-shadow:0 0 8px 0 rgb(0,0,0,0.4);
 }
 #img{
-  background-image:url('images/698137.jpg');
+  background-image:url('698137.jpg');
   clip-path:polygon(0 0, 80% 0, 60% 100%,0 100%);
 }
 /*#img2{
   margin-top:-100vh;
-  background-image:url('images/index3.jpg');
+  background-image:url('index3.jpg');
   clip-path:polygon(100% 0, 80% 0, 60% 100%,100% 100%);
 }*/
 #photo{
@@ -102,7 +102,7 @@ a:hover, a:focus{
   border-radius:20px;
   box-shadow:8px 8px 8px 8px rgb(0,0,0,0.4);
   z-index:110;
-  background-image:url('images/portrait.jpg');
+  background-image:url('portrait.jpg');
   background-size:cover;
   top:6vw;
   left:10vw;
