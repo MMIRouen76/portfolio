@@ -1,3 +1,5 @@
+
+@media screen{
 /* Style global*/
 *,*:before,*:after {
   box-sizing: inherit;
@@ -160,10 +162,9 @@ a:hover, a:focus{
 }
 
 
-
+}
 @media handheld{
   html{
     background-color:blue;
     color:orange;
   }
-}
