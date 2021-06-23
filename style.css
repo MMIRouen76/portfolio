@@ -163,7 +163,7 @@ a:hover, a:focus{
 
 
 }
-@media screen and (max-width:666px) {
+@media screen and (max-width:999px) {
   html{
     background-color:blue;
     color:orange;
